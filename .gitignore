@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+**/.env
+config.env
+=======
+.DS_Store
+backend/config/
+backend/config/
+.DS_Store
+*.env
+>>>>>>> 3cc761c (Ignore env files and remove .DS_Store)
+config.env
