@@ -4,7 +4,6 @@ Job Sphere is a **full‑stack MERN (MongoDB, Express.js, React.js, Node.js)** w
 
 This project demonstrates **production‑level architecture**, clean separation of concerns, secure authentication, and scalable frontend & backend design.
 
----
 
 ##  Features
 
@@ -32,7 +31,6 @@ This project demonstrates **production‑level architecture**, clean separation 
 * Cron jobs for automation (newsletter / background tasks)
 * Centralized error handling
 
----
 
 ##  Tech Stack
 
@@ -53,7 +51,6 @@ This project demonstrates **production‑level architecture**, clean separation 
 * **Nodemailer** (emails)
 * **Node‑Cron** (automation)
 
----
 
 ##  Project Structure
 
@@ -84,7 +81,6 @@ job-sphere/
 └── package.json
 ```
 
----
 
 ##  Authentication Flow
 
@@ -93,7 +89,6 @@ job-sphere/
 * Protected routes enforced via middleware
 * Role‑based authorization for employers & job seekers
 
----
 
 ##  Getting Started
 
@@ -138,7 +133,6 @@ npm run dev
 Frontend runs on: **[http://localhost:5173](http://localhost:5173)**
 Backend runs on: **[http://localhost:5000](http://localhost:5000)**
 
----
 
 ##  API Overview
 
@@ -151,7 +145,6 @@ Backend runs on: **[http://localhost:5000](http://localhost:5000)**
 | POST   | /api/applications    | Apply for job   |
 | GET    | /api/applications/me | My applications |
 
----
 
 ##  Future Improvements
 
@@ -161,14 +154,6 @@ Backend runs on: **[http://localhost:5000](http://localhost:5000)**
 * Real‑time notifications
 * Company profiles
 
----
-
-##  Author
-
-**Job Sphere** built  by *[Akshara Rao]*
-A project focused on real‑world MERN architecture and scalable development practices.
-
----
 
 ##  License
 
